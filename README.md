@@ -1,1 +1,22 @@
-# .github
+![메인](https://github.com/user-attachments/assets/87779d43-7f18-4c26-8a26-be4902313f96)
+![목차](https://github.com/user-attachments/assets/25064bfb-29b5-4d5b-9837-56eebcecc1e9)
+![01 팀원 소개 및 역할 분담](https://github.com/user-attachments/assets/eab61696-e752-4611-875f-65c481eca0ee)
+![02 동기 및 필요성 - 1](https://github.com/user-attachments/assets/0f3afc58-d184-4641-93d9-a8e7cc1470ed)
+![02 동기 및 필요성 - 2](https://github.com/user-attachments/assets/ddc26ac5-a72f-4dba-a651-a37a517e081a)
+![03 개발 타임 라인 소개 - 1](https://github.com/user-attachments/assets/6a99b93c-46f0-4369-b9c3-e2c2885d592d)
+![03 개발 타임 라인 소개 - 2](https://github.com/user-attachments/assets/bd413e59-cced-4de9-a654-a39809d94c00)
+![04 동료 피드백 반영 여부 - 1](https://github.com/user-attachments/assets/3109c383-018c-448d-ab2e-31df8c44d66b)
+![04 동료 피드백 반영 여부 - 2](https://github.com/user-attachments/assets/3256bf0c-dc89-4c11-8b6e-823f4dff4c7e)
+![05 구현 방법 - 아키텍처 구조도](https://github.com/user-attachments/assets/01a863e7-e0b8-487b-81cb-90a2868f273d)
+![05 구현 방법 - 데이터 전처리](https://github.com/user-attachments/assets/ecaa6ba1-ac68-4af2-9aa3-43a27c0b0ff2)
+![05 구현 방법 - 데이터 시각화](https://github.com/user-attachments/assets/7755b871-5469-49ff-bfd1-f356820dac39)
+![05 구현 방법 - 데이터 전처리 및 분석](https://github.com/user-attachments/assets/157dac92-5f0f-417e-ad50-cba3eea9caa9)
+![05 눈 깜빡임 인식 - EAR](https://github.com/user-attachments/assets/9b49e332-ee7f-4048-8a80-8074272590f2)
+![05 눈 깜빡임 인식 - MAR](https://github.com/user-attachments/assets/0266ac4c-d57b-4008-9ca8-bacf1939aa9d)
+![05 구현 방법 -  Input/Output](https://github.com/user-attachments/assets/be6a63f3-bde4-4da9-9f4e-b1d7e11ffa28)
+![05 구현 방법 - 아두이노](https://github.com/user-attachments/assets/1b5de22f-b306-4380-8dee-145b57403623)
+![06 최종 결과물](https://github.com/user-attachments/assets/94434976-1178-4fc8-9de5-afefe3df55dc)
+![06 최종 결과물 - 시연 영상](https://github.com/user-attachments/assets/b968e5d0-a22c-46e0-ae5d-5ac82bae0a1e)
+https://drive.google.com/file/d/1hzht-EEBUXwQYz-11GKwqoshywHtpmA5/view?usp=sharing
+![06 최종 결과물 - 기대 효과](https://github.com/user-attachments/assets/61f9d20b-08ba-4341-8a4c-34079041f3d5)
+
